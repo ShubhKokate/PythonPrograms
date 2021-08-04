@@ -2,16 +2,16 @@
 
 #=============================Called Function #===============================
 def Display():
-    cint=0
-		for cint in range(10, 0, -1):
-				print(cint)
+	cint=0
+	for cint in range(10, 0, -1):
+		print(cint)
   
 #=============================Main Function #==================================
 def main():
-    Display()
+	Display()
     
 #============================= Starter #=======================================
 if __name__=="__main__":
-    main()
+	main()
 
 				
